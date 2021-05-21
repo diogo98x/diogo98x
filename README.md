@@ -1,4 +1,4 @@
-👋 Hi, I’m Diogo!
+### 👋 Hi, I’m Diogo!
 
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javacript
